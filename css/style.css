@@ -1,0 +1,43 @@
+nav {
+    font-family: 'ZCOOL QingKe HuangYou',sans-serif;
+}
+
+nav ul li a {
+    font-size: 18px;
+}
+
+.brand-logo {
+    font-size: 17px;
+}
+
+.brand-logo b{
+    color: #af0404;
+}
+
+#body-content .header {
+    margin-top: 50px;
+}
+
+#body-content .paragraf {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#body-content .guitar-model {
+    margin-top: 50px;
+}
+
+#body-content .content {
+    margin-top: 30px;
+}
+
+#body-content .content p {
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+#body-content .content img {
+    border-radius: 10px;
+}
+
+

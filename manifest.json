@@ -1,0 +1,16 @@
+{
+    "name": "Guitar Jam",
+    "short_name": "Guitar Jam",
+    "description": "Guitar Jam adalah web yang membahas tentang gitar",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#d16767",
+    "theme_color": "#d16767",
+    "icons": [
+        {
+            "src": "icons.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
